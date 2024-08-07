@@ -7,3 +7,5 @@ This is the repository for the paper
 accepted at [Transfer Learning for Natural Language Processing, NeurIPS 2022]
 
 Each folder has its own README. Please take a look.
+
+Blog : https://www.deepwizai.com/robust-normalization  
